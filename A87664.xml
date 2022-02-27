@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Terrible newes from York sent in a letter to London concerning great and weighty affairs of high cousequence [sic]. Allo [sic], a great mutiny and uprore, which hapned in the city of York, at twelve of the clock at night by threescore rogues which rose with clubs and bils, animated on by some great person, against 20 men of good quality, who lodged there on Sunday night. With some passages concerning the Kentish petition. Togethether [sic] with a declaration from both Houses of Parliament, concerning the Church of England. Hen. Elsing Cler. Par. D. Com.</title>
+            <author>T. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87664</idno>
+            <idno type="STC">Wing K23</idno>
+            <idno type="STC">Thomason E143_12</idno>
+            <idno type="STC">ESTC R22278</idno>
+            <idno type="EEBO-CITATION">99871687</idno>
+            <idno type="PROQUEST">99871687</idno>
+            <idno type="VID">156603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Terrible newes from York sent in a letter to London concerning great and weighty affairs of high cousequence [sic]. Allo [sic], a great mutiny and uprore, which hapned in the city of York, at twelve of the clock at night by threescore rogues which rose with clubs and bils, animated on by some great person, against 20 men of good quality, who lodged there on Sunday night. With some passages concerning the Kentish petition. Togethether [sic] with a declaration from both Houses of Parliament, concerning the Church of England. Hen. Elsing Cler. Par. D. Com.</title>
+                  <author>T. K.</author>
+                  <author>Widmerpole, Joseph.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "Terrible newes from York" contains a reset version of "News from Yorke sent from a countrey courtier" on pages [3] and [4] signed: T.K.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Includes a letter signed : J. Widmerpole.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earle, Richard, --  Sir, d. 1667.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156603:1" rendition="simple:additions"/>
+            <p>TERRIBLE NEWES <hi>FROM</hi> YORK <hi>SENT</hi> In a Letter to London concerning great and <hi>weighty Affairs of high Conſequence.</hi>
+            </p>
+            <p>
+               <hi>ALLO,</hi> A great Mutiny and Uprore, which hapned in the City of <hi>York,</hi> at twelve of the clock at night by threeſcore Rogues which roſe with Clubs and Bils, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mated on by ſome great perſon, a<g ref="char:EOLhyphen"/>gainſt 20 men of good quality, who lodged there on Sunday night.</p>
+            <p>
+               <hi>With ſome Paſſages concerning the Kentiſh Petition.</hi>
+            </p>
+            <p>Togethether with a Declaration from both Houſes of Parliament, concerning the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>He<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Elſing Cler. Par. D. Com.</hi>
+            </p>
+            <p>Printed for <hi>Iohn <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156603:2"/>
+            <pb facs="tcp:156603:2"/>
+            <head>Strange and fearfull NEWES FROM <hi>YORK.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Countrey Courtier kiſſes your hands, for the favour you did him in your laſt Epiſtle, &amp; tels you he is of opinion with the Se<g ref="char:EOLhyphen"/>cretary in my Lord <hi>Newcaſtles</hi> laſt new play, That the Times are dangerous, &amp; therfore ſhall ſay acthing but Mum: Letters have miſcarryed, ſo may mine; therfore I will ſend you nothing but tail-paper. Tell the <hi>Lincolnſhire Round<g ref="char:EOLhyphen"/>heads</hi> I am theirs to be confided in: I know they cover News, therfore J pray tell them the King is here, and ſo am I but Mum, no more of that. Several Petitions have bin delivered to my So<g ref="char:EOLhyphen"/>vereign,
+<pb facs="tcp:156603:3"/> but what they are, you ſhall not know. The King hawks much after the Hiern, its a high flight, but no more of that neither, nor any thing elſe at this time, only that I am</p>
+            <closer>
+               <dateline>
+                  <date>April 8.</date>
+               </dateline>
+               <signed>Yours, T. K.</signed>
+            </closer>
+         </div>
+         <div type="account_of_an_assault">
+            <head>A true Relation of ſome Remarkable Paſ<g ref="char:EOLhyphen"/>ſages, that hapned between Sir Richard Earl, &amp; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and threeſcore perſons with clubs and bils, who aſſaulted them in the Houſc where they lay, &amp;c.</head>
+            <p>SIr <hi>Richard Earl,</hi> and 20 more Gentle<g ref="char:EOLhyphen"/>men of quality, preſented their Pe<g ref="char:EOLhyphen"/>tition from the County of <hi>Lincoln,</hi> who were ſcoffed at by the Courtiers and Ci<g ref="char:EOLhyphen"/>tizens, and called <hi>Round-heads;</hi> they lay in York on Sunday, and about midnight that night, about 60. perſons with clubs and bils aſſaulted the houſe where they lay, and ſwore they would have the bloud of them, the Gentlemen being up, and the Rogues got into the Houſe, they were forced to put out their lights
+<pb facs="tcp:156603:3"/> and betake themſelves to their ſwords, which done, the unknown Raſcals de<g ref="char:EOLhyphen"/>parted, giving threatning Speeches, that they would cut the throats that eame came next; yet I praiſe God we had reaſonable fair quarter with them; the City of York we perceive offers theſe abuſes to <hi>Petitioners,</hi> on purpoſe to deter them from comming to the King, becauſe they would have reſide with them; thoſe that are well-affected (which are but few in compariſon of the multitude) do joyn with us wil<g ref="char:EOLhyphen"/>lingly and freely, both in judgment and matter; the Court is very thin as yet, but encreaſeth daily; the latter <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> mentioned in our Anſwer, is not yet in print; the Kings firſt Anſwer was <hi>(He refers us to the Kentiſh Petition)</hi> but we preſſing for a further and more ſatisfactory Anſwer, had as you may here fee, with hopes ſtill of a better.</p>
+            <p>The <hi>Kentiſh Petition</hi> was Ordered to be printed, but ſpeeding ſo badly at
+<pb facs="tcp:156603:4"/> 
+               <hi>London,</hi> it is ſtopped as yet; much more I could tell you, but my occaſions will not permit me, therfore with our beſt a affections to you all, I commit you to the Lords protection and reſt,</p>
+            <closer>
+               <signed>Your ever loving Brother while <hi>J. Widmerpole.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:156603:4"/>
+            <head>A DECLARATION OF Both Houſes of Parliament, concer<g ref="char:EOLhyphen"/>ning the eſtabliſhing of Church Govern<g ref="char:EOLhyphen"/>ment, throughout the whole Kingdome of <hi>England.</hi>
+            </head>
+            <p>THe Lords and Commons do declare, That they intend a due and neceſſary Reformation of the Government and Liturgic of the Church, and to take away no<g ref="char:EOLhyphen"/>thing in the one or the other, but what ſhall be evill, and juſtly offenſive, or at leaſt unneceſſary and burthenſome: And for the better effecting therof, ſpeedily to have conſultation with Godly and Learned Divines. And becauſe this will ne<g ref="char:EOLhyphen"/>ver of it ſelf attain the end ſought therein, they will therfore uſe their utmoſt endeavors to e<g ref="char:EOLhyphen"/>ſtabliſh Larneed and Preaching Miniſters, with a good and ſufficient maintenance throughout the whole Kingdome, wherin many dark Cor<g ref="char:EOLhyphen"/>ners are miſerably deſtitute of the means of Sal<g ref="char:EOLhyphen"/>vation, and many poor Miniſters want neceſſa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y proviſion.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
